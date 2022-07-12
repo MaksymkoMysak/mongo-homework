@@ -10,7 +10,7 @@
     "debug": true
   },
   "local": {
-    "database": "mongodb://localhost:27017",
+    "database": "mongodb+srv://MaksymMysak:maximko7337@cluster0.pkfzz.mongodb.net/?retryWrites=true&w=majority",
     "dbName": "tc",
     "seed": true,
     "dbConfig": {
